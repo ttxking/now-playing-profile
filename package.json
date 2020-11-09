@@ -1,5 +1,5 @@
 {
-  "name": "now-playing-profile",
+  "name": "natemoo-re",
   "private": true,
   "version": "1.0.0",
   "description": "Github profile",
@@ -19,19 +19,20 @@
     "@vercel/node": "^1.7.2",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
+    "open": "^7.2.1",
     "prettier": "^2.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoshLmao/now-playing-profile.git"
+    "url": "git+https://github.com/natemoo-re/natemoo-re.git"
   },
   "keywords": [],
   "author": "Nate Moore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JoshLmao/now-playing-profile/issues"
+    "url": "https://github.com/natemoo-re/natemoo-re/issues"
   },
-  "homepage": "https://github.com/JoshLmao/now-playing-profile#readme",
+  "homepage": "https://github.com/natemoo-re/natemoo-re#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
